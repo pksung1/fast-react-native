@@ -1,0 +1,7 @@
+{
+  "name": "react-native-seonpark-template",
+  "version": "0.0.1",
+  "description": "Typescript, react-navigation@6, redux-toolkit, thunk, template",
+  "author": "seonpark <pksung1@gmail.com>",
+  "license": "MIT"
+}
