@@ -1,12 +1,15 @@
 import React from 'react';
-import {Main} from '@/components/screens';
 import {store} from '@/store';
 import {Provider} from 'react-redux';
+import Navigation from './navigation';
+import './i18n';
 
-const App = () => (
-  <Provider store={store}>
-    <Main />
-  </Provider>
-);
+const App = () => {
+  return (
+    <Provider store={store}>
+      <Navigation />
+    </Provider>
+  );
+};
 
 export default App;
