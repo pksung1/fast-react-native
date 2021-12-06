@@ -1,0 +1,6 @@
+{
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.preferences.importModuleSpecifierEnding": "minimal",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.formatOnSave": true
+}
