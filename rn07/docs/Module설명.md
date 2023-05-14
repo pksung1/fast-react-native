@@ -6,3 +6,14 @@
 ## react-antive-iap
 
 인앱결제 서비스 구현
+
+## react-native
+
+## zustand
+
+앱 상태관리
+
+## react-query
+
+앱 API 요청 관리
+
