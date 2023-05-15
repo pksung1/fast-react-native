@@ -3,12 +3,12 @@ import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import AuthNavigator from './auth';
 import {NavigationContainer} from '@react-navigation/native';
 
-const Stack = createNativeStackNavigator();
+const RootStack = createNativeStackNavigator();
 
 export default () => (
   <NavigationContainer>
-    <Stack.Navigator initialRouteName="auth">
-      <Stack.Screen name="auth" component={AuthNavigator} />
-    </Stack.Navigator>
+    <RootStack.Navigator initialRouteName="auth">
+      <RootStack.Screen name="auth" component={AuthNavigator} />
+    </RootStack.Navigator>
   </NavigationContainer>
 );
