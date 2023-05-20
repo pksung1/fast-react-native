@@ -5941,6 +5941,11 @@ react-native-iap@^11.0.0-rc.7:
   resolved "https://registry.yarnpkg.com/react-native-iap/-/react-native-iap-11.0.0-rc.7.tgz#26a7d12b9f9768dc3bdeb6fe489dccca13e8ac44"
   integrity sha512-Yxuf/RwVu3hurwDXgTvKe9gD7Lz1J5skTEnlLJZUi0DU1qh79j9kcSKBRjhjGslGGIRZokc7frvTY6AksEIWFQ==
 
+react-native-localize@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-localize/-/react-native-localize-3.0.0.tgz#41536e8aca8a148fd96d495d3d5cf710e25b2855"
+  integrity sha512-B8taYRLuLIYDzBTKIglA3K6ntjaEwbk6mwQ72ogZYl5ovM00NnpbiZ3sRq8KRVe/V1NGczxT33uVqG6BUWGWhg==
+
 react-native-safe-area-context@^4.5.2:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-4.5.2.tgz#38438c7a52ce2a6a05fc4de6cd3ee47f78a9366e"
