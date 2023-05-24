@@ -1,4 +1,4 @@
-# Fast React Native Template
+# Fast React Native Template 0.71.x
 
 빠르게 개발을 하기위해 만든 템플릿입니다.
 
@@ -12,22 +12,26 @@ npx react-native init [AppName] --template https://github.com/pksung1/fast-react
 
 ### Language
 - [Typescript](https://www.typescriptlang.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
-### Data store FLUX 패턴을 위한 데이터관리
-- [redux-toolkit](https://redux-toolkit.js.org/)
+### State Management
+- [Zustand](https://github.com/pmndrs/zustand)
 
-### API Fetch 비동기 요청 처리
-- [redux-thunk with redux-toolkit](https://redux-toolkit.js.org/api/createAsyncThunk)
+### Navigation
+- [React Navigation](https://reactnavigation.org/)
 
-### Navigation 앱 라우팅 작업
-- [react-navigation 6.x](https://reactnavigation.org/)
-- [react-navigation/native-stack](https://reactnavigation.org/docs/native-stack-navigator)
-- [react-navigation/material-top-tabs](https://reactnavigation.org/docs/material-top-tab-navigator)
+### UI
+- [React Hook Form](https://react-hook-form.com/)
 
-### Localization 다국어 지원
+### Data Fetch / Cache
+
+- [Axios](https://axios-http.com/kr/docs/intro)
+- [React Query v5](https://tanstack.com/query/v5/docs/react/overview)
+
+### Local Storage
+- [Async Storage](https://react-native-async-storage.github.io/async-storage/docs/install/)
+
+### Localize
 - [i18n-js](https://github.com/fnando/i18n-js)
 - [react-native-localize](https://github.com/zoontek/react-native-localize)
-
-### More
-- [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) 스플래시 스크린 커스터마이징
-

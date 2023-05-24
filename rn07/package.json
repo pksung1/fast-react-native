@@ -21,6 +21,7 @@
     "react-native": "0.71.8",
     "react-native-config": "^1.5.1",
     "react-native-iap": "^11.0.0-rc.7",
+    "react-native-localize": "^3.0.0",
     "react-native-safe-area-context": "^4.5.2",
     "react-native-screens": "^3.20.0",
     "zustand": "^4.3.8"
