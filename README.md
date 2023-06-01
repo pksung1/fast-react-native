@@ -1,4 +1,4 @@
-# Fast React Native Template 0.71.x
+# Dmonster Fast React Native Template 0.71.x
 
 빠르게 개발을 하기위해 만든 템플릿입니다.
 
