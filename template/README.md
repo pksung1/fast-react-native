@@ -2,6 +2,12 @@
 
 빠른 개발을 위해 자주 사용하는 라이브러리를 합쳐놓았습니다.
 
+### Source By
+- https://github.com/pksung1/fast-react-native/tree/master/template
+
+### Editor
+- 김경태
+
 ## Folder Architecture
 - @/assets : 이미지, lottie 를 관리합니다.
 - @/components : 앱의 컴포넌트를 관리합니다.
