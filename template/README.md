@@ -6,7 +6,7 @@
 - https://github.com/pksung1/fast-react-native/tree/master/template
 
 ### Editor
-- 김경태
+- Dmonster 김경태
 
 ## Folder Architecture
 - @/assets : 이미지, lottie 를 관리합니다.
