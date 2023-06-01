@@ -14,6 +14,9 @@ npx react-native init [AppName] --template https://github.com/kimgtae12/fast-rea
 ### Editor
 - 김경태
 
+### Edit Scadlue
+- 2023-06-01 작업시작
+
 ## Tech Stack
 
 ### Language
