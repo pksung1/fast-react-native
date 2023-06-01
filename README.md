@@ -5,11 +5,11 @@
 ## How to use
 
 ```
-npx react-native init [AppName] --template https://github.com/pksung1/fast-react-native.git
+npx react-native init [AppName] --template https://github.com/kimgtae12/fast-react-native.git
 ```
 
 ### Source By
-- https://github.com/kimgtae12/fast-react-native/tree/master/template
+- https://github.com/pksung1/fast-react-native/tree/master/template
 
 ### Editor
 - 김경태
