@@ -8,6 +8,9 @@
 ### Editor
 - Dmonster 김경태
 
+### Edit Scadule
+- 2023-06-01 작업시작
+
 ## Folder Architecture
 - @/assets : 이미지, lottie 를 관리합니다.
 - @/components : 앱의 컴포넌트를 관리합니다.
