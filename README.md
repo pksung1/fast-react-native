@@ -9,7 +9,7 @@ npx react-native init [AppName] --template https://github.com/pksung1/fast-react
 ```
 
 ### Source By
-- https://github.com/pksung1/fast-react-native/tree/master/template
+- https://github.com/kimgtae12/fast-react-native/tree/master/template
 
 ### Editor
 - 김경태
